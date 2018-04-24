@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vigilate</string>
+    <string name="title_activity_info__activate">Info_Activate</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="txtActivar">Activar</string>
+    <string name="swOff">Desactivado</string>
+    <string name="swOn">Activado</string>
+    <string name="not_log_in">No se pudo iniciar sesión Con Google</string>
+    <string name="title_activity_maps">Map</string>
+
+    //Notifications
+    <string name="NotificationTittle">¡Se un hereo!</string>
+    <string name="NotificationText">Alguien Necesita Tu Ayuda</string>
+
+
+</resources>

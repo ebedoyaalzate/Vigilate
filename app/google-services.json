@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "482046758268",
+    "firebase_url": "https://vigilate-180323.firebaseio.com",
+    "project_id": "vigilate-180323",
+    "storage_bucket": "vigilate-180323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482046758268:android:c0aeee80744ad253",
+        "android_client_info": {
+          "package_name": "com.example.johnathan.vigilate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482046758268-vt32nnc9bd1dhth04aqtdvbueof8hvet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnathan.vigilate",
+            "certificate_hash": "ab9d87909963c7672f115d3192488ab0e9e1ed48"
+          }
+        },
+        {
+          "client_id": "482046758268-obplmf6kvu1e13j0boms7sik0jqpjt12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnathan.vigilate",
+            "certificate_hash": "57e0853a86465cfd505d24f0e4319ebb46d359d9"
+          }
+        },
+        {
+          "client_id": "482046758268-e8914o69hm490ce7ge2qo6ivclcrlqgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnathan.vigilate",
+            "certificate_hash": "2cda341e7767b5d39b583481e42946ec349d6c62"
+          }
+        },
+        {
+          "client_id": "482046758268-fsmgchffom7i0kh1qop2bfeolg5n3in6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTTPQUEOYeiuplDGKTJ7oaj-eeVDAAd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482046758268-fsmgchffom7i0kh1qop2bfeolg5n3in6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

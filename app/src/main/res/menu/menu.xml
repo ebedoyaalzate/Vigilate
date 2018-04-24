@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--
+    <item
+        android:id="@+id/menuLocation"
+        android:orderInCategory="100"
+        android:title="My Location"
+        app:showAsAction="never" />
+        -->
+    <item
+        android:id="@+id/menuSettings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuLogOut"
+        android:orderInCategory="100"
+        android:title="cerrar sesión"
+        app:showAsAction="never" />
+
+</menu>
